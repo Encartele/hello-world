@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 i++;
-                hwtv.setText("You have pressed the Hello World button " +  i + " time(s)!");
+                hwtv.setText("You have pressed the Hello World button " +  i + " time(s)!!");
             }
         });
     }
